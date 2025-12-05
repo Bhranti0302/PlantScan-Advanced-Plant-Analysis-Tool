@@ -2,7 +2,7 @@
 
 PlantScan is an AI-based plant analysis tool that allows users to upload a photo of a plant and receive an intelligent analysis report. It uses **Google Gemini AI** to identify the plant, assess its health, and provide useful insights. The app also allows users to generate and download a **professional PDF report**.
 
-**Live Project:** [Add your Railway link here]
+**Live Project:** [https://plantscan-advanced-plant-analysis-tool-production.up.railway.app/]
 **Tech Stack:** Node.js, Express.js, HTML, CSS, JavaScript, Google Gemini AI, PDFKit
 
 ---
@@ -151,24 +151,13 @@ node_modules
 
 ---
 
-## 📌 Future Enhancements
-
-* Plant disease detection
-* Multi-language support
-* User accounts & saved reports
-* Mobile app version
-* Real-time camera scan
-
----
-
 ## 👩‍💻 Developer
 
 **Bhranti Tamboli**
 Junior Frontend / Full Stack Developer
 Skills: HTML, CSS, JS, React, Node, UI/UX, MongoDB
 
-💼 Portfolio coming soon
-📧 Contact: [Add your email]
+📧 Contact: [bhrantitamboli40@gmail.com]
 
 ---
 
